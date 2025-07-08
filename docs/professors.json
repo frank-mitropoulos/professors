@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Felix Quibble",
+    "title": "Spreadsheet Soothsayer",
+    "bio": "Dr. Gridwell is a master of turning chaos into clarity. With a scarf made of spreadsheets and a mind full of models, he\u2019s known for predicting cafeteria lunch trends with 98% accuracy.",
+    "image_url": "https://i.imgur.com/roGchlr.png",
+    "specialty": "Data Science",
+    "employer": "Statistica University of Predictive Patterns"
+  },
+  {
+    "id": 2,
+    "name": "Prof. Zoe Lin",
+    "title": "Emergency Debugging Ninja",
+    "bio": "Zoe codes like she breathes\u2014fast, clean, and with flair. She once debugged a campus-wide system crash using only a whiteboard and a marker she found in her backpack.",
+    "image_url": "https://i.imgur.com/HD30Q05.png",
+    "specialty": "Software Engineering",
+    "employer": "Whiteboard Institute of Rapid Response Computing"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Cosmo Entangler",
+    "title": "Quantum Choreographer",
+    "bio": "A legend in both physics and eccentric fashion, Dr. Entangler claims to have once been in two faculty meetings at the same time. His lectures are 50% quantum theory, 50% interpretive dance.",
+    "image_url": "https://i.imgur.com/vGzdDo0.png",
+    "specialty": "Quantum Computing",
+    "employer": "Entanglement Conservatory of Physics and Performing Arts"
+  },
+  {
+    "id": 4,
+    "name": "Prof. Mira Touchstone",
+    "title": "Chief Interface Empath",
+    "bio": "Mira designs interfaces so intuitive, even her cat can use them. She\u2019s passionate about blending tech with empathy and is often seen testing prototypes with students, squirrels, and the occasional hologram.",
+    "image_url": "https://i.imgur.com/G6MBR5J.png",
+    "specialty": "Human Computer Interation",
+    "employer": "College of Human-Tech Synergy"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Nolan Nimbus",
+    "title": "Floating Systems Sage",
+    "bio": "Dr. Nimbus lives in the cloud\u2014literally, if you believe the rumors. He teaches distributed systems while floating on a hoverboard and insists that \u201clatency is just a state of mind.\u201d",
+    "image_url": "https://i.imgur.com/hOxs1yg.png",
+    "specialty": "Cloud Computing",
+    "employer": "Nimbus Cloud Research Lab & Hoverboard Institute"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Ada Sparks",
+    "title": "Neural Network Trainer",
+    "bio": "Ada trains models like others train puppies\u2014patiently, with lots of data and occasional treats. Her office is filled with neural nets, coffee mugs, and motivational posters for algorithms.",
+    "image_url": "https://i.imgur.com/ir8Ccba.png",
+    "specialty": "Machine Learning",
+    "employer": "Academy of Deep Learning and Canine AI Studies"
+  },
+  {
+    "id": 7,
+    "name": "Prof. Leo Render",
+    "title": "Polygon Prankmaster",
+    "bio": "Leo sees the world in polygons and shaders. He once rendered a 3D model of the entire campus just to prank the dean with a virtual treasure hunt.",
+    "image_url": "https://i.imgur.com/OzN08ZT.png",
+    "specialty": "Computer Graphics",
+    "employer": "Virtual Mischief & Rendering University (VMRU)"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Tessa Byte",
+    "title": "Solder Sorceress",
+    "bio": "Tessa wears a belt made of microcontrollers and can solder with her eyes closed. She\u2019s known for building a fully automated coffee machine that takes voice commands in assembly language.",
+    "image_url": "https://i.imgur.com/SmJCnzD.png",
+    "specialty": "Embedded Systems",
+    "employer": "Circuitopia Institute of Bizarre Hardware"
+  },
+  {
+    "id": 9,
+    "name": "Prof. Raj Kapoor",
+    "title": "Bot Poet Laureate",
+    "bio": "Raj speaks 12 languages\u2014and so do his chatbots. He\u2019s famous for creating a poetry-writing AI that once won a campus slam poetry contest.",
+    "image_url": "https://i.imgur.com/t6lPGDp.png",
+    "specialty": "Computational Linguistics",
+    "employer": "Multilingual Machines & Verse Academy"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Ivy Quark",
+    "title": "Quantum Comedian",
+    "bio": "Ivy's lectures are a blend of quantum logic and stand-up comedy. She claims her quantum algorithms are so efficient, they finish running before you even hit \u201cexecute.\u201d",
+    "image_url": "https://i.imgur.com/oHEb3FW.png",
+    "specialty": "Quantum Computing",
+    "employer": "Stand-Up Quantum Mechanics Institute"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Ada Vectra",
+    "title": "Algorithm Animator",
+    "bio": "A brilliant AI researcher in her 30s, Dr. Vectra is known for her neural network tattoo and hoodie covered in AI icons. She teaches with flair, often using animated data points and algorithmic dance moves to explain complex models.",
+    "image_url": "https://i.imgur.com/18Zo3Fq.png",
+    "specialty": "Artificial Intelligence",
+    "employer": "NeoSyntax Institute of Expressive AI"
+  },
+  {
+    "id": 12,
+    "name": "Prof. Max Pixel",
+    "title": "Shader Maestro",
+    "bio": "Prof. Pixel, in his 40s, is a digital artist at heart. Wearing 3D glasses and a pixel-art shirt, he brings color theory and shader magic to life with his stylus and a giant digital canvas.",
+    "image_url": "https://i.imgur.com/5jG5wYA.png",
+    "specialty": "Computer Graphics",
+    "employer": "School of Digital Canvases and Shader Magic"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Sia Circuit",
+    "title": "Queen of Bitlings",
+    "bio": "A hands-on hardware guru in her 50s, Dr. Circuit wears a vest adorned with microcontrollers and LEDs. She's always surrounded by blinking gadgets and tiny robots that she affectionately calls her \u201cbitlings.\u201d",
+    "image_url": "https://i.imgur.com/yz1cO3Q.png",
+    "specialty": "Embedded Systems",
+    "employer": "Robotic Friends Polytechnic"
+  },
+  {
+    "id": 14,
+    "name": "Prof. Theo Justus",
+    "title": "Ethics Adjudicator",
+    "bio": "A wise and thoughtful professor in his 60s, Prof. Justus wears a robe with balance scales and code symbols. He lectures from a digital courtroom, guiding students through the moral maze of AI and tech ethics.",
+    "image_url": "https://i.imgur.com/cnwKg0G.png",
+    "specialty": "Ethical Computing",
+    "employer": "Digital Morality Tribunal University"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Lex Syntax",
+    "title": "Syntax Sorcerer",
+    "bio": "Dr. Syntax is a professor with a flair for languages and logic. She wears a jacket covered in language symbols and wields a glowing syntax tree, decoding the mysteries of human and machine communication.",
+    "image_url": "https://i.imgur.com/XRkEn1S.png",
+    "specialty": "Computational Linguistics",
+    "employer": "Academy of Linguistic Logic and Symbolcraft"
+  },
+  {
+    "id": 16,
+    "name": "Dr. Nova Byte",
+    "title": "Mixed-Reality Maven",
+    "bio": "A tech visionary in her 30s, Dr. Byte wears AR glasses and a jacket that projects holograms. Her lectures are fully immersive, blending real and virtual worlds to teach interface design and spatial computing.",
+    "image_url": "https://i.imgur.com/UKQVXU7.png",
+    "specialty": "Augmented Reality",
+    "employer": "ARcade Lab for Spatial Computing & Holography"
+  },
+  {
+    "id": 17,
+    "name": "Prof. Otto Loop",
+    "title": "Infinite Debugger",
+    "bio": "A quirky professor in his 50s, Prof. Loop wears suspenders with assembly code and carries a clipboard of memory maps. He is known for debugging live in class\u2014with dramatic flair and a rubber duck sidekick.",
+    "image_url": "https://i.imgur.com/xjZoL06.png",
+    "specialty": "Systems Programming",
+    "employer": "Assembly College of Recursive Systems"
+  },
+  {
+    "id": 18,
+    "name": "Dr. Vega Spark",
+    "title": "Electromancer-in-Residence",
+    "bio": "Dr. Spark is a high-voltage personality with a lightning bolt streak in her hair. She teaches circuits with a mix of Tesla coils, musical oscilloscopes, and electrifying enthusiasm.",
+    "image_url": "https://i.imgur.com/U2PKkJ1.png",
+    "specialty": "Electrical Engineering",
+    "employer": "Institute of High Voltage Sorcery"
+  },
+  {
+    "id": 19,
+    "name": "Prof. Quinn Flux",
+    "title": "Logic Labyrinth Architect",
+    "bio": "A deep thinker in their 40s, Prof. Flux wears a cloak covered in Turing machines and paradoxes. They love posing unsolvable problems and guiding students through the abstract realms of logic and computation.",
+    "image_url": "https://i.imgur.com/wJhIxe2.png",
+    "specialty": "Theoretical Computer Science",
+    "employer": "Turing Cloister of Paradoxical Computation"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Iris Bloome",
+    "title": "Professor",
+    "bio": "Dr. Bloom is a nature-loving data scientist who wears a lab coat with DNA helix embroidery. She teaches genomics with flower metaphors and often brings her pet parrot, \u201cGene,\u201d to class.",
+    "image_url": "https://i.imgur.com/hwmab8N.png",
+    "specialty": "Bioinformatics",
+    "employer": "Botanical Institute for Bioinformatics & Birdside Teaching"
+  }
+]
